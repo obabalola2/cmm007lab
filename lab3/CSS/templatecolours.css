@@ -1,0 +1,32 @@
+body{
+    background-color: red;
+}
+header{
+    background-color: green;
+}
+main{
+    background-color: blue;
+}
+section{
+    background-color: orange;
+}
+aside{
+    background-color: yellow;
+}
+article{
+    background-color: purple;
+}
+
+#news{
+    background-color:#DBC9DF;
+}
+#events{
+    background-color: #782A7E;
+}
+footer{
+    background-color: #363636;
+}
+
+aside p,h3,h4{
+    color: white;
+}
